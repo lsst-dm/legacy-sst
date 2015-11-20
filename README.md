@@ -1,4 +1,4 @@
-testdata_sst
+legacy-testdata_sst
 ============
 
 Deprecated test data used to exercise the LSST Stack.
@@ -6,7 +6,7 @@ Deprecated test data used to exercise the LSST Stack.
 git-lfs
 -------
 
-testdata_sst stores large files using [git-lfs](https://git-lfs.github.com/). To use testdata_sst you must install git-lfs and configure it. LSST runs its own git-lfs server and storage service.
+legacy-testdata_sst stores large files using [git-lfs](https://git-lfs.github.com/). To use legacy-testdata_sst you must install git-lfs and configure it. LSST runs its own git-lfs server and storage service.
 
 There is **no password required** for cloning or pulling from LSST's git-lfs server, but it is recommended that you use a [credential helper](https://help.github.com/articles/caching-your-github-password-in-git/) to avoid being prompted for a username and password repeatedly.
 
