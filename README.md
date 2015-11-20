@@ -1,5 +1,5 @@
 legacy-testdata_sst
-============
+===================
 
 Deprecated test data used to exercise the LSST Stack.
 
